@@ -1,5 +1,8 @@
 # eTvLmodel
 
+TvLmodelの極値バージョン
+
+参考
 https://physics.paperswithcode.com/paper/talent-vs-luck-the-role-of-randomness-in
 
 https://github.com/KentAnak/TvLSimulator
